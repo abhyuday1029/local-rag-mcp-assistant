@@ -13,7 +13,7 @@ from rag import load_knowledge, retrieve
 BASE_DIR = Path(__file__).resolve().parent
 
 OLLAMA_URL = "http://localhost:11434/api/chat"
-MODEL_NAME = "gemma3:1b"
+MODEL_NAME = "gemma3:4b"
 
 
 def ask_local_model(question, context, weather):
