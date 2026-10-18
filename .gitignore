@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local backups
+backup_working_demo/
+rag_chroma_backup.py
+
+# Personal files and generated reports
+uploads/
+documents/
+reports/
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Editor settings
+.vscode/

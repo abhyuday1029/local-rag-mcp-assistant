@@ -1,0 +1,13 @@
+# anthropic
+# python-dotenv
+# sentence-transformers
+# chromadb
+# mcp>=1.12,<2
+# requests
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch==2.8.0+cpu
+sentence-transformers==6.1.0
+mcp==1.30.0
+requests

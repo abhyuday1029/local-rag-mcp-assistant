@@ -1,0 +1,11 @@
+Model Context Protocol (MCP) is an open standard for connecting AI applications to external tools and data sources.
+
+Retrieval Augmented Generation (RAG) retrieves relevant information and supplies it to a language model before generating an answer.
+
+Vector databases store embeddings and support similarity search.
+
+Embeddings represent text as numerical vectors that capture aspects of its meaning.
+
+Claude is a family of AI models developed by Anthropic.
+
+MCP servers expose tools that MCP clients can discover and call.
